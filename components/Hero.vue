@@ -8,7 +8,7 @@
     </div>
 </template>
 
-<style>
+<style scoped>
 .bg-image {
     background-image: linear-gradient(rgba(78, 25, 20, 0.7),rgba(78,25,20,0.7)),url('/src/assets/Background.png');
     font-size: 20px;
